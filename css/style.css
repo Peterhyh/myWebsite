@@ -1,0 +1,15 @@
+body {
+    background-image: linear-gradient(to bottom, #49676A, #5F7372, #C0896B);
+}
+
+h2 {
+    font-family: 'Original Surfer', cursive;
+}
+
+.card {
+    background-image: linear-gradient(to bottom, #0D2B40, #155460, #1B5C60)
+}
+
+.navbar {
+    background-image: linear-gradient(to bottom, #0D2B40, #155460, #1B5C60)
+}

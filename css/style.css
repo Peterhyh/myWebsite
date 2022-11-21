@@ -1,15 +1,31 @@
 body {
-    background-image: linear-gradient(to bottom, #49676A, #5F7372, #C0896B);
+    background-image: linear-gradient(to bottom, #0E0B17, #111224, #2E3357);
 }
 
 h2 {
     font-family: 'Original Surfer', cursive;
+    color: white;
 }
 
 .card {
-    background-image: linear-gradient(to bottom, #0D2B40, #155460, #1B5C60)
+    background-color: #A9B2CA;
 }
 
 .navbar {
-    background-image: linear-gradient(to bottom, #0D2B40, #155460, #1B5C60)
+    background-image: linear-gradient(to bottom, #0E0B17, #111224, #2E3357);
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    align-self: center;
+    
+}
+
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
 }
